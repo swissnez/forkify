@@ -1,0 +1,8 @@
+node_modules
+dist
+Diagrams
+Diagrams/**
+/Diagrams
+.parcel-cache
+.DS_Store
+
