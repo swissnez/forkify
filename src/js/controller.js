@@ -76,6 +76,7 @@ const init = () => {
   
 };
 init();
+console.log("Controller Sync via GitHub/Netlify");
 
 
 
